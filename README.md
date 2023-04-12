@@ -1,2 +1,3 @@
 # nvim_conf
-confs_lua_vim
+
+confs from different repos
